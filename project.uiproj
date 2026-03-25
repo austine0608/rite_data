@@ -1,0 +1,6 @@
+{
+  "Name": "DSata Proces",
+  "ProjectType": "Process",
+  "Description": "Data",
+  "MainFile": "Main.xaml"
+}
